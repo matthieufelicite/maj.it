@@ -5,6 +5,7 @@ import { Dialog } from '@headlessui/react';
 
 import { Bars3Icon, XMarkIcon } from '@heroicons/react/24/outline';
 import Link from "next/link";
+import Image from "next/image";
 
 const navigation = [
 
@@ -30,7 +31,7 @@ export default function Header() {
 
                         <span className="sr-only">MAJ IT</span>
 
-                        <img className="h-8 w-auto" src="/logo.png" alt="" />
+                        <Image className="h-8 w-auto" src="/logo.png" alt="" />
                     </Link>
                 </div>
 
