@@ -11,7 +11,7 @@ const people = [
         name: 'Matthieu FELICITE',
         role: 'Responsable Sécurité',
         imageUrl:
-            '/MF.heic',
+            '/MF.png',
         xUrl: '#',
         linkedinUrl: '#',
     },

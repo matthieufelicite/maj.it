@@ -7,7 +7,7 @@ export default function Page() {
 
         <>
 
-            <Title subtitle="test" title="Sites et applications" text="text" />
+            <Title subtitle="Vos données en sécurité" title="Stockage" text="text" />
 
             <Temoignage image="/JM.png" text="" nom="Jean-Charles MCHANGAMA" poste="Responsable Stockage" />
         </>
