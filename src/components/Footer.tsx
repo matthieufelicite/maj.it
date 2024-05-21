@@ -89,7 +89,7 @@ export default function Footer() {
 
                     <p className="text-center text-xs leading-5 text-gray-500">
 
-                        &copy; 2024 MAJ IT, Inc. All rights reserved.
+                        &copy; 2024 MAJ IT. Tous droits réservés.
                     </p>
                 </div>
             </div>

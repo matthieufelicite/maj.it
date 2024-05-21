@@ -21,7 +21,7 @@ const features = [
     {
         name: 'Stockage',
         description:
-            "Cerise sur le gateau, nous vous proposons aussi d'héberger toutes vos données ainsi que celles de vos utilisateurs.",
+            "Cerise sur le gâteau, nous vous proposons aussi d'héberger toutes vos données ainsi que celles de vos utilisateurs.",
         href: '/stockage',
         icon: CircleStackIcon,
     },

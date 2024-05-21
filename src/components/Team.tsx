@@ -39,7 +39,7 @@ export default function Team() {
 
                     <p className="mt-4 text-lg leading-8 text-gray-600">
 
-                        Nous sommes une équipe d'entrepreneurs motivée à changer le monde de la prestation de service infotmatique.
+                        Nous sommes une équipe d'entrepreneurs motivée à changer le monde de la prestation de services infotmatiques.
                     </p>
                 </div>
 
