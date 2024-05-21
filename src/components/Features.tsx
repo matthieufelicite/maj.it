@@ -14,15 +14,15 @@ const features = [
     {
         name: 'Sécurité',
         description:
-            'Pellentesque enim a commodo malesuada turpis eleifend risus. Facilisis donec placerat sapien consequat tempor fermentum nibh.',
-        href: '#',
+            "Disposer d'un site ou d'une application, c'est bien, mais il faut aussi que ces derniers soient sécurisés. Cela tombe bien, nous vous proposons ce service.",
+        href: '/securite',
         icon: LockClosedIcon,
     },
     {
         name: 'Stockage',
         description:
-            'Pellentesque sit elit congue ante nec amet. Dolor aenean curabitur viverra suspendisse iaculis eget. Nec mollis placerat ultricies euismod ut condimentum.',
-        href: '#',
+            "Cerise sur le gateau, nous vous proposons aussi d'héberger toutes vos données ainsi que celles de vos utilisateurs.",
+        href: '/stockage',
         icon: CircleStackIcon,
     },
 ]

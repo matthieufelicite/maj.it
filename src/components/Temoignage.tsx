@@ -10,7 +10,7 @@ export default function Temoignage(props: Props) {
 
     return (
 
-        <section className="isolate overflow-hidden bg-white px-6 lg:px-8">
+        <section className="isolate overflow-hidden px-6 lg:px-8">
 
             <div className="relative mx-auto max-w-2xl py-24 sm:py-32 lg:max-w-4xl">
 
