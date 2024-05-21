@@ -17,7 +17,7 @@ export default function Hero() {
                 }} />
             </div>
 
-            <div className="mx-auto max-w-4xl py-18 sm:py-24 lg:py-36">
+            <div className="mx-auto max-w-4xl py-24 sm:py-36 lg:py-48">
 
                 <div className="hidden sm:mb-8 sm:flex sm:justify-center">
 
@@ -25,7 +25,7 @@ export default function Hero() {
 
                         La simplicité de l’informatique accessible à tous.{' '}
 
-                        <Link href="#features" className="font-semibold text-[#3499e7]">
+                        <Link href="#features" className="font-semibold text-gradient">
 
                             <span className="absolute inset-0" aria-hidden="true" />
 
@@ -43,7 +43,7 @@ export default function Hero() {
 
                     <p className="mt-6 text-lg leading-8 text-gray-600">
 
-                        Nous vous fournissons tout les outils pour réussir votre développement informatique.
+                        Nous vous fournissons tous les outils pour réussir votre développement informatique.
                     </p>
 
                     <div className="mt-10 flex flex-col items-center justify-center gap-6 sm:flex-row">
