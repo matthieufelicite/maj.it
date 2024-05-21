@@ -1,6 +1,7 @@
 import Features from '@/components/Features'
 import Team from '@/components/Team'
 import Hero from '@/components/Hero'
+import Stats from '@/components/Stats'
 
 export default function Page() {
 
@@ -11,6 +12,8 @@ export default function Page() {
 			<Hero />
 
 			<Features />
+
+			<Stats />
 
 			<Team />
 		</>

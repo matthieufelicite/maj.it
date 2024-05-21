@@ -5,7 +5,7 @@ const people = [
         imageUrl:
             '/AM.png',
         xUrl: '#',
-        linkedinUrl: '#',
+        linkedinUrl: 'https://www.linkedin.com/in/abderrazak-messaoudi-379ab7231/',
     },
     {
         name: 'Matthieu FELICITE',
@@ -13,7 +13,7 @@ const people = [
         imageUrl:
             '/MF.png',
         xUrl: '#',
-        linkedinUrl: '#',
+        linkedinUrl: 'https://www.linkedin.com/in/matthieufelicite/',
     },
     {
         name: 'Jean-Charles MCHANGAMA',
@@ -21,7 +21,7 @@ const people = [
         imageUrl:
             '/JM.png',
         xUrl: '#',
-        linkedinUrl: '#',
+        linkedinUrl: 'https://www.linkedin.com/in/jean-charles-mchangama-ba38161b9/',
     }
 ]
 

@@ -37,14 +37,14 @@ export default function Features() {
 
                 <div className="mx-auto max-w-2xl lg:text-center">
 
-                    <h2 className="text-base font-semibold leading-7 text-[#3499e7]">Deploy faster</h2>
+                    <h2 className="text-base font-semibold leading-7 text-[#3499e7]">L'informatique pour tous</h2>
 
                     <p className="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
-                        Everything you need to deploy your app
+                        Tout ce dont vous avez besoin sur le plan informatique
                     </p>
 
                     <p className="mt-6 text-lg leading-8 text-gray-600">
-                        Nous vous proposons tout les services informatiques dont vous aurez besoin pour développer votre activité.
+                        Nous vous proposons de réaliser tout les services informatiques dont vous aurez besoin pour développer votre activité.
                     </p>
                 </div>
 
