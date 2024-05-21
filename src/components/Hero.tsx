@@ -25,7 +25,7 @@ export default function Hero() {
 
                         Besoin de service informatique.{' '}
 
-                        <Link href="#" className="font-semibold text-[#3499e7]">
+                        <Link href="/contact" className="font-semibold text-[#3499e7]">
 
                             <span className="absolute inset-0" aria-hidden="true" />
 
@@ -49,12 +49,12 @@ export default function Hero() {
 
                     <div className="mt-10 flex items-center justify-center gap-x-6">
 
-                        <Link href="#" className={buttonVariants({ variant: 'default', size: 'lg' })}>
+                        <Link href="/contact" className={buttonVariants({ variant: 'default', size: 'lg' })}>
 
                             J'ai besoin d'un service informatique
                         </Link>
 
-                        <Link href="#" className={buttonVariants({ variant: 'ghost', size: 'lg' })}>
+                        <Link href="#features" className={buttonVariants({ variant: 'ghost', size: 'lg' })}>
 
                             En savoir plus <ArrowRightIcon className="w-5 h-5 ml-2" />
                         </Link>

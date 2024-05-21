@@ -9,10 +9,10 @@ import Image from "next/image";
 
 const navigation = [
 
-    { name: 'Sites / Applications', href: '#' },
-    { name: 'Sécurité', href: '#' },
-    { name: 'Stockage', href: '#' },
-    { name: 'Nous contacter', href: '#' }
+    { name: 'Sites / Applications', href: '/sites' },
+    { name: 'Sécurité', href: '/securite' },
+    { name: 'Stockage', href: '/stockage' },
+    { name: 'Nous contacter', href: '/contact' }
 ]
 
 export default function Header() {
@@ -31,7 +31,7 @@ export default function Header() {
 
                         <span className="sr-only">MAJ IT</span>
 
-                        <Image className="h-8 w-auto" src="/logo.png" alt="" />
+                        <Image width={50} height={50} className="h-8 w-auto" src="/logo.png" alt="" />
                     </Link>
                 </div>
 
