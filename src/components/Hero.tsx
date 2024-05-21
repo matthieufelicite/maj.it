@@ -23,13 +23,13 @@ export default function Hero() {
 
                     <div className="relative rounded-full px-3 py-1 text-sm leading-6 text-gray-600 ring-1 ring-gray-900/10 hover:ring-gray-900/20">
 
-                        Besoin de service informatique.{' '}
+                        La simplicité de l’informatique accessible à tous.{' '}
 
-                        <Link href="/contact" className="font-semibold text-[#3499e7]">
+                        <Link href="#features" className="font-semibold text-[#3499e7]">
 
                             <span className="absolute inset-0" aria-hidden="true" />
 
-                            Contactez nous <span aria-hidden="true">&rarr;</span>
+                            En savoir plus <span aria-hidden="true">&rarr;</span>
                         </Link>
                     </div>
                 </div>
@@ -38,16 +38,15 @@ export default function Hero() {
 
                     <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">
 
-                        La simplicité de l’informatique accessible à tous
+                        MAJ IT
                     </h1>
 
                     <p className="mt-6 text-lg leading-8 text-gray-600">
 
-                        Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui lorem cupidatat commodo. Elit sunt amet
-                        fugiat veniam occaecat fugiat aliqua.
+                        Nous vous fournissons tout les outils pour réussir votre développement informatique.
                     </p>
 
-                    <div className="mt-10 flex items-center justify-center gap-x-6">
+                    <div className="mt-10 flex flex-col items-center justify-center gap-6 sm:flex-row">
 
                         <Link href="/contact" className={buttonVariants({ variant: 'default', size: 'lg' })}>
 
